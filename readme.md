@@ -37,8 +37,3 @@ int main(void) {
     return 0;
 }
 ```  
----
-
-This project reflects my ongoing journey in mastering C programming.
-
----
