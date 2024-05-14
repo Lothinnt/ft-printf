@@ -2,9 +2,10 @@
 
 ## Introduction
 
-ft_printf is a custom implementation of the C standard library function printf. This project is a part of my programming training
+ft_printf is a custom implementation of the C standard library function printf. 
+This project is a part of my programming training
 
-The implementation supports several format specifiers:
+The implementation supports several format specifiers: 
 
     %c for characters
     %s for strings
