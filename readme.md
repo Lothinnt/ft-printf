@@ -2,8 +2,7 @@
 
 ## Introduction
 
-ft_printf is a custom implementation of the C standard library function printf. This project is a part of my programming training, aimed at understanding how formatted output works in C and enhancing my skills in variadic functions, string manipulation, and advanced type handling. Through reimplementing printf, I explore the intricacies of handling variable argument lists and formatting data for output.
-Contents
+ft_printf is a custom implementation of the C standard library function printf. This project is a part of my programming training
 
 The implementation supports several format specifiers:
 
@@ -15,12 +14,7 @@ The implementation supports several format specifiers:
     %x and %X for hexadecimal numbers (lowercase and uppercase)
     %% for printing a literal percent sign
 
-In addition to the standard format specifiers, this project also delves into custom utility functions that facilitate the conversion and printing processes, such as:
-
-    Memory allocation and management functions
-    Character output functions
-    Number conversion functions to various bases (decimal, hexadecimal)
-    String manipulation and output functions
+Its work like the real printf function
 
 ## Project Goals
 
